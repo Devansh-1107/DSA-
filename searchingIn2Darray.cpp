@@ -1,3 +1,4 @@
+//searching in 2D array
 #include<iostream>
 using namespace std;
 bool isPresent(int arr[][4],int row,int col,int target)
