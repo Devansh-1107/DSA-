@@ -1,3 +1,4 @@
+// 2D array wave problem 
 #include<iostream>
 #include<vector>
 
