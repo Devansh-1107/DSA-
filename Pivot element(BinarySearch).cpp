@@ -1,3 +1,4 @@
+// pivot element binary search 
 #include<iostream>
 using namespace std;
 int pivotElement(int a[],int n)
