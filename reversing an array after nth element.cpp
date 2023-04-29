@@ -1,3 +1,4 @@
+// reversing element after nth element
 #include<iostream>
 #include<vector>
 using namespace std;
