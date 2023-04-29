@@ -1,3 +1,4 @@
+// swapping alternate elements
 #include<iostream>
 using namespace std;
 void printArr(int a[],int n)
