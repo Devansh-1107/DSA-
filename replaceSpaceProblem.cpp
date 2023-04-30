@@ -1,3 +1,4 @@
+// replace space problem
 #include<iostream>
 using namespace std;
 string replaceString(string &str)
