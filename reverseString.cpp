@@ -1,3 +1,4 @@
+// reverse string 
 #include<iostream>
 using namespace std;
 int size(char ch[])
