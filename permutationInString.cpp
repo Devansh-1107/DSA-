@@ -1,3 +1,4 @@
+// permutations in string
 class Solution {
     private:
     bool checkEqual(int a[26],int b[26])
