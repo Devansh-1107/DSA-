@@ -1,3 +1,4 @@
+// number of occurances
 #include <iostream>
 using namespace std;
 int firstOccu(int arr[], int n, int k)
