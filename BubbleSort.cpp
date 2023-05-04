@@ -1,4 +1,4 @@
-// Bubble Sort
+// Bubble Sor
 #include <iostream>
 using namespace std;
 void printArr(int ar[], int n)
