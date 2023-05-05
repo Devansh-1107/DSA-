@@ -1,4 +1,4 @@
-//2D array intro
+//2D array introduction
 #include<iostream>
 using namespace std;
 int main()
