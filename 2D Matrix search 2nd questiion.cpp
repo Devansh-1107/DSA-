@@ -1,4 +1,4 @@
-//in this question all elements in the row and column of the 2D array are already sorted 
+//in this question all elements in the row and column of the 2D array are already sorte
 #include<iostream>
 #include<vector>
 using namespace std;
