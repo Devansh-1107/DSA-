@@ -1,6 +1,6 @@
 //in this question all elements in the row and column of the 2D array are already sorted
 #include<iostream>
-#include<vector>
+#include<vector
 using namespace std;
 
 class Solution {
