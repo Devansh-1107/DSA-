@@ -16,10 +16,10 @@ int partition(int arr[],int s, int e){
     // handelling left and right part
     int i=s,j=e;
     while(i<pivotIndex && j>pivotIndex){
-        while(arr[i]<pivot){
+        if(arr[i]<pivot){
             i++;
         }
-        while(arr[j]>pivot){
+        if(arr[j]>pivot){
             j--;
         }
         if(i<pivotIndex && j>pivotIndex){
@@ -41,12 +41,12 @@ void quickSort(int arr[], int s, int e){
 
 
     //recursive call
-    quickSort(arr,s,p);
+    quickSort(arr,s,p-1);
     quickSort(arr,p+1,e);
 }
 int main(){
     int arr[]={3,5,6,2,3,2};
-    int n=5;
+    int n=6;
     quickSort(arr,0,n-1);
     for(int i=0;i<n; i++){
         cout<<arr[i]<<" ";
